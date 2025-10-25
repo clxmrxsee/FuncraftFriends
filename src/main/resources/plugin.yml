@@ -1,0 +1,9 @@
+name: FuncraftFriends
+main: fr.clxmdev.friends.Main
+version: 1.0
+api-version: 1.9
+author: ClxmDev
+description: Module qui permet d'ajouter des amis sur un serveur.
+commands:
+  friends:
+    description: Ce module permet d'ajouter, supprimer et voir ses amis connectés.

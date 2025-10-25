@@ -1,0 +1,6 @@
+database:
+  host: "localhost"
+  database: "funcraft"
+  username: "root"
+  password: ""
+  port: 3006
