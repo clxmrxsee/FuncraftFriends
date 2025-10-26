@@ -3,4 +3,4 @@ database:
   database: "funcraft"
   username: "root"
   password: ""
-  port: 3006
+  port: 3306
